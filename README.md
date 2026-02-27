@@ -1,18 +1,11 @@
 # lindy effect estimator
 
-Estimate future longevity of ideas using the Lindy Effect
-
-## About
-
-This project provides practical tools grounded in behavioral science and decision theory research.
+Estimate longevity using the Lindy Effect
 
 ## Resources
 
-- [KeepRule](https://keeprule.com) - Decision Intelligence Platform
+- [KeepRule](https://keeprule.com)
 - [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
-- [Masters](https://keeprule.com/en/masters) | [Prompts](https://keeprule.com/en/prompts)
-- [Blog](https://keeprule.com/en/blog) | [FAQ](https://keeprule.com/en/faq)
-
-## License
+- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
 
 MIT - [KeepRule](https://keeprule.com)
